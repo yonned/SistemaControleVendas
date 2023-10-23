@@ -33,7 +33,7 @@ Contribuições são bem-vindas. Se você quiser melhorar este projeto, sinta-se
 
 ## Licença
 
-Este projeto é distribuído sob a licença [Sua Licença].
+Este projeto é distribuído sob a licença de César Rodrigues.
 
 ## Contato
 
